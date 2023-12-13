@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱I am currently pursuing my BTech in ECE domain and I am looking for jobs in IT fields.
-🔭I am good at Java, Python, HTML, CSS and C languages.
+\🔭I am good at Java, Python, HTML, CSS and C languages.
 
 <!--
 **209x1a04d2/209x1a04d2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
